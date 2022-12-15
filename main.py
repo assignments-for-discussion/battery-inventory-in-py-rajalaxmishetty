@@ -22,7 +22,7 @@ def test_bucketing_by_number_of_cycles():
       print("medium")
       mediumCount=mediumCount+1
       
-     else:
+    else:
       print("high")
       highCount=highCount+1
   
