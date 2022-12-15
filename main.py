@@ -21,10 +21,11 @@ def test_bucketing_by_number_of_cycles():
     elif count>=310 and count<=929:
       print("medium")
       mediumCount=mediumCount+1
-      
+     
     else:
       print("high")
       highCount=highCount+1
+   
   
   
 
